@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace apiGestores.Models
 {
-    //
+    
     public class Gestores_Bd
     {
         [Key]
